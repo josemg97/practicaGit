@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author José María Muñoz García
  */
 
 public class Lib {
